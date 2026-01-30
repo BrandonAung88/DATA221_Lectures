@@ -4,7 +4,7 @@
 2. [EDIT FILES - Jupyter notebooks]
 3. git add .
 4. git status
-5. git commit -m "Improve data handling for better API performances" "Verb,describe what commit does,describe why commit is necessary"
+5. git commit -m "Improve data handling for better API performances" / "Verb(Present Tense),describe what commit does,describe why commit is necessary"
 6. git push origin main
 
 ❌ dquote> prompt → Type " and Enter (or Ctrl+C)
